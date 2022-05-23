@@ -1,0 +1,5 @@
+## Intro
+
+This course is aimed at a developer demographic. While all the examples will be dealing with JavaScript applications, you don't necessarily need to be a JavaScript developer to grasp this case; the code will be incidental to the concepts being taught.
+<br/>
+This course assumes a very basic grasp of Linux and using the command line. You don't need to be a bash expert but this shouldn't be your first exposure to Linux or the command line. The class will be taught for both macOS and Windows users and will be using Ubuntu and Alpine Linux for the containers. This will also work well for Linux developers but the class won't have any additional instructions for Linux devs but following the macOS steps should be 95% the same. If you are a Windows developer, please be using Windows 10. You'll need to either use WSL 2 or VirtualBox.
